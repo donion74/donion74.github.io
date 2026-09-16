@@ -24,7 +24,7 @@ logo: /picture.jpg
 # description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-description: 'E-mail: <a href="mailto:aaltherr@ethz.ch">aaltherr@ethz.ch</a>'
+description: '<ul><li>LinkedIn: <a href="https://www.linkedin.com/in/anian-altherr/">anian-altherr</a></li> <li>Gitlab: <a href="https://gitlab.com/donion74/">donion74</a></li></ul>'
 github:
   is_project_page: false
 # twitter_username: jekyllrb
