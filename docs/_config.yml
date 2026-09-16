@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 description: '<ul><li>LinkedIn: <a href="https://www.linkedin.com/in/anian-altherr/">anian-altherr</a></li> <li>Gitlab: <a href="https://gitlab.com/donion74/">donion74</a></li></ul>'
 github:
   is_project_page: false
+  is_user_page: false
 # twitter_username: jekyllrb
 linkedin_username: anian-altherr
 github_username: donion74 
