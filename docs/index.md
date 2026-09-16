@@ -6,7 +6,7 @@
 layout: default 
 ---
 
-<i> Software Engineer with background in computational physics,
+<i> Software Engineer with a background in computational physics,
 specializing in high-performance simulations. </i>
 
 I am a doctoral student in the High Performance Computational Physics group
@@ -15,7 +15,7 @@ and implement algorithms for the simulation of particle physics.
 
 Previously, I worked as a software engineer at Embotech implementing
 algorithms for automotive motion planning. Before that, I completed
-my Master and Bachelor degree in Physics at ETH Zürich.
+my Master's and Bachelor's degrees in Physics at ETH Zürich.
 
 # Skills
 
@@ -27,11 +27,11 @@ my Master and Bachelor degree in Physics at ETH Zürich.
     <dt>Development</dt>
         <dd>Git, GDB, Valgrind, Make, CMake</dd>
     <dt>Testing</dt>
-        <dd>Google Test, Pytest, Gitlab CI/CD</dd>
+        <dd>Google Test, Pytest, GitLab CI/CD</dd>
     <dt>Infrastructure</dt>
         <dd>Docker, Ansible, Django, AWS, OVH</dd>
     <dt>Databases</dt>
-        <dd>Postgresql</dd>
+        <dd>PostgreSQL</dd>
 </dl>
 
 
@@ -99,7 +99,7 @@ customers and employees alike.
 
 ### Exam translation, printing and scanning
 
-The organization of international scientific Olympiads such as IPhO, IBO
+The organization of international scientific Olympiads, such as IPhO, IBO
 or IChO, requires the translation of the original English exam into
 over 90 languages, printing and scanning over 100'000 pages
 within a short amount of time. The coordination 
